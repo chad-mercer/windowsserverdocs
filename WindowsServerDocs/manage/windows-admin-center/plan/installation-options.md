@@ -27,9 +27,9 @@ You can **install** Windows Admin Center on the following Windows operating syst
 | **Platform**                       | **Installation mode** |
 | -----------------------------------| --------------------- |
 | Windows 10                         | Local client |
-| Windows Server Semi-Annual Channel | Gateway sever, managed server, failover cluster |
-| Windows Server 2016                | Gateway sever, managed server, failover cluster |
-| Windows Server 2019                | Gateway sever, managed server, failover cluster |
+| Windows Server Semi-Annual Channel | Gateway server, managed server, failover cluster |
+| Windows Server 2016                | Gateway server, managed server, failover cluster |
+| Windows Server 2019                | Gateway server, managed server, failover cluster |
 
 To operate Windows Admin Center:
 
